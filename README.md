@@ -72,7 +72,7 @@ The clustering analysis identified four distinct stock behavior patterns, which 
 
 1. **Clone the repository**:
    ```
-   git clone https://github.com/yourusername/stock-clustering-analysis.git
+   git clone https://github.com/Alirezakhoshsolat/stock-clustering-pipeline.git
    ```
 
 2. **Install dependencies**:
@@ -100,7 +100,7 @@ Potential enhancements for this project include:
 
 ## Contributors
 
-- Seyyed Alireza Khoshsolat
+- Parham Khosh Solat
 - Farshad Farahtaj
 
 ## License
