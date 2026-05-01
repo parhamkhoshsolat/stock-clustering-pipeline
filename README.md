@@ -31,7 +31,7 @@ The four clusters map to distinct behavioral patterns: low-volatility stable sto
 ## Setup
 
 ```bash
-git clone https://github.com/Alirezakhoshsolat/stock-clustering-pipeline.git
+git clone https://github.com/parhamkhoshsolat/stock-clustering-pipeline.git
 cd stock-clustering-pipeline
 pip install -r requirements.txt
 jupyter notebook "Stock Clustering Analysis.ipynb"
